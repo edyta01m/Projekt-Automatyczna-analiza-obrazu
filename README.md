@@ -1,0 +1,1 @@
+# Projekt-Automatyczna-analiza-obrazu
